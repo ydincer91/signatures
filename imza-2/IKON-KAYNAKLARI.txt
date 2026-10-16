@@ -1,0 +1,13 @@
+Facebook, LinkedIn, WhatsApp: Gaurav Ghongde / social-icons, Color seti
+Kaynak: https://github.com/gauravghongde/social-icons
+İndirme tarihi: 2026-10-15
+
+Instagram: https://commons.wikimedia.org/wiki/File:Instagram_icon.png
+https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png
+https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png
+https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png
+https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/WhatsApp.png
+
+Kaynak dosyalar assets/social-color altında korunur. Outlook için teknik
+kopyalar 32 x 32 piksel ve 96 DPI olarak assets/outlook altında hazırlanır;
+tasarımları ve renkleri korunur. İmza bunların yerel kopyalarını kullanır.
